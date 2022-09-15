@@ -1,6 +1,6 @@
 import random
 import hangman_art  # importing modules
-import hangman_words
+import hangman_words    #importing file with words
 
 print(hangman_art.logo)  # printing variable of module
 
